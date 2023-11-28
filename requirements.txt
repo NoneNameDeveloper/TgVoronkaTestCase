@@ -1,0 +1,4 @@
+SQLAlchemy~=2.0.23
+Pyrogram~=2.0.106
+loguru~=0.7.2
+alembic~=1.12.1

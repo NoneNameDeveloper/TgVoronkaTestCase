@@ -176,3 +176,6 @@ alembic.ini
 /test.cfg
 /docs/build/_build/
 /pysqlite_test_schema.db
+
+client.session
+client.session-journal
